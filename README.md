@@ -30,4 +30,4 @@ Una aplicación de tareas desarrollada con React Native, TypeScript y Expo que t
 - **Persistencia Local**: Todas tus tareas se guardan localmente, lo que te permite acceder a ellas incluso cuando no estás conectado a internet.
 - **Desarrollado con Expo**: La aplicación está construida utilizando Expo, facilitando el desarrollo y la implementación en múltiples plataformas.
 
-Hecho con ❤️ por [Carlos López](linkedin.com/in/carlos-lopezc93)
+Hecho con ❤️ por [Carlos López](https://linkedin.com/in/carlos-lopezc93)
