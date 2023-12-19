@@ -17,10 +17,10 @@ Una aplicación de tareas desarrollada con React Native, TypeScript y Expo que t
 
 ## Capturas de Pantalla
 <div style="display: flex; flex-direction: 'row';">
-<img src="./screenshots/screenshot1.png" width=30%>
-<img src="./screenshots/screenshot2.png" width=30%>
-<img src="./screenshots/screenshot3.png" width=30%>
-<img src="./screenshots/screenshot4.png" width=30%>
+<img src="./screenshots/screenshoot1.png" width=30%>
+<img src="./screenshots/screenshoot2.png" width=30%>
+<img src="./screenshots/screenshoot3.png" width=30%>
+<img src="./screenshots/screenshoot4.png" width=30%>
 </div>
 
 ## Características
